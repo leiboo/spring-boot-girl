@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.leibo.entity.Girl",
+      "name": "girl",
+      "type": "com.leibo.entity.Girl"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.leibo.entity.Girl",
+      "name": "girl.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.leibo.entity.Girl",
+      "name": "girl.cup-size",
+      "type": "java.lang.String"
+    }
+  ]
+}
